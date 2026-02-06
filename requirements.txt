@@ -1,0 +1,5 @@
+pillow
+pystray
+pyperclip
+pywin32; sys_platform == 'win32'
+pyobjc; sys_platform == 'darwin'
